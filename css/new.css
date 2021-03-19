@@ -36,6 +36,7 @@ ul {
 }
 body {
 	padding: 0px 30% 0px 30%;
+	overflow: hidden;
 }
 
 a {
