@@ -1,0 +1,105 @@
+html {
+	background-color: #1c1c1c;
+	color: white;
+	font-family: "Menlo", "Meslo LG", monospace;
+	text-align: justify;
+}
+
+body {
+	padding: 0px 10% 0px 10%;
+	margin: 0;
+}
+.soec {
+	padding: 0px 15% 0px 15%;
+}
+.text {
+	padding: 0% 0% 0% 0%;
+	font-size: 1.2rem;
+}
+
+.centre {
+	display:flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	margin: 0;
+}
+body {
+	font-family: "Menlo", "Meslo LG", monospace; 
+}
+.container {
+	padding: 1rem;
+	border-radius: .5rem;
+	width: 700px
+	max-width: 90%;
+}
+
+.timer {
+	position: absolute;
+	top: 15rem;
+	color: #4a4a4a;
+	font-size: 6rem;
+}
+
+.quote-display {
+	margin-bottom: 1rem;
+	font-size: 2rem;
+}
+
+.quote-input { 
+	background-color: transparent;
+	border: transparent;
+	outline: none;
+	height: 10rem;
+	width: 100%;
+	margin: auto;
+	resize: none;
+	color: #4a4a4a;;
+}
+
+a {
+	transition: 0.2s;
+	text-decoration: none;
+}
+
+REMEMBER TO MAKE THIS DISSAPEAR ^^^^^
+
+{
+	box-sizing: border-box;
+}
+
+.bigP {
+	font-size: 2rem;
+	color: #6aba8f;
+}
+
+.correct {
+	color: white;
+}
+
+stolen from ggg:
+
+
+img {
+	border-style: solid;
+	border-color: #6aba8f;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+.colour3 {
+	color: #6aba8f;
+}
+a:visited {
+	color: white;
+}
+a:link {
+	color: white;
+}
+a:hover {
+	color: #6aba8f;
+	text-decoration-color: #6aba8f;
+}
+
