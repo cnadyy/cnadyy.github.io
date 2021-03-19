@@ -8,7 +8,7 @@ html {
 }
 body {
 	padding: 15% 30% 0px 30%;
-	margin: 0;
+	overflow: hidden;
 }
 h2 {
 	margin: 0px 0px 0px 0px;

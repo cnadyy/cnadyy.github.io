@@ -7,7 +7,7 @@ html {
 
 body {
 	padding: 0px 10% 0px 10%;
-	margin: 0;
+	overflow: hidden;
 }
 .soec {
 	padding: 0px 15% 0px 15%;
