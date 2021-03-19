@@ -1,5 +1,5 @@
 html {
-	background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url("cnadcnad.github.io/img/bg.jpeg");
+	background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url("/img/bg.jpeg");
 	background-position: center;
 	background-size: cover;
 	color: white;
