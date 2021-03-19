@@ -1,0 +1,46 @@
+html {
+	background-color: #1c1c1c;
+	color: white;
+	font-family: "Menlo", "Meslo LG", monospace;
+	text-align: justify;
+}
+.font2 {
+	font-family: ".", "Meslo LG"; why it make bigger when it not do anything wtfg
+}
+body {
+}
+.img {
+	border-style: solid;
+	border-color: #6aba8f;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+.img:hover {
+color: rgba(34, 12, 64, 0.6);
+color: rgba(34.0 12 64 / 60%);
+}
+
+.colour3 {
+	color: #6aba8f;
+}
+a:visited {
+	color: white;
+}
+a:link {
+	color: white;
+}
+a:hover {
+	color: #6aba8f;
+	text-decoration-color: #6aba8f;
+}
+body {
+	padding: 0px 30% 0px 30%;
+}
+
+a {
+	transition: 0.2s;
+}
+
+

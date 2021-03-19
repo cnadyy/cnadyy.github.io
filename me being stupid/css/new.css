@@ -1,0 +1,44 @@
+
+html {
+	background-color: #111111;
+	color: #595959;
+	font-family: "Menlo", "Meslo LG", monospace;
+	text-align: justify;
+}
+.special {
+	font-family: monospace;
+}
+.colour2 {
+	color: white;
+}
+
+img {
+	border-style: solid;
+	border-color: white;
+    margin: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+a:visited {
+	color: #595959;
+}
+a:link {
+	color: #595959;
+}
+a:hover {
+	color: white;
+	text-decoration-color: white;
+}
+ul {
+	list-style: none;
+}
+body {
+	padding: 0px 30% 0px 30%;
+}
+
+a {
+	transition: 0.2s;
+	text-decoration: none;
+}
