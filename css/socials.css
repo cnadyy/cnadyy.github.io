@@ -11,10 +11,10 @@ body {
 	overflow: hidden;
 }
 h2 {
-	margin: 0px 0px 0px 0px;
+	margin: 0px;
 }
 .yeah {
-	margin: 0px 0px 0px 0px;
+	margin: 0px;
 }
 .center {
   display: block;
@@ -50,6 +50,6 @@ img:hover {
 }
 
 
-/* 	background-position: center; 
-	background-repeat: no-repeat; 
+/* 	background-position: center;
+	background-repeat: no-repeat;
 	background-size: cover; */
